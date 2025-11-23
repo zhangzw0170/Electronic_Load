@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.asm": "assembly",
+        "eload.h": "c",
+        "systick.h": "c"
+    }
+}
